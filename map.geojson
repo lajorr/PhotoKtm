@@ -1,1 +1,117 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Patan house"},"geometry":{"coordinates":[85.32296738792706,27.674830010010226],"type":"Point"}},{"type":"Feature","properties":{"name":"Namkha"},"geometry":{"coordinates":[85.32534482243909,27.676641650084704],"type":"Point"}},{"type":"Feature","properties":{"name":"Chyasal"},"geometry":{"coordinates":[85.32853912338919,27.67471697255391],"type":"Point"}},{"type":"Feature","properties":{"name":"Khapinchhe"},"geometry":{"coordinates":[85.32778680643992,27.673554354806825],"type":"Point"}},{"type":"Feature","properties":{"name":"Patan Museum"},"geometry":{"coordinates":[85.3253354,27.6734438],"type":"Point"}},{"type":"Feature","properties":{"name":"Bahadur Shah Hall"},"geometry":{"coordinates":[85.32566477043815,27.67371099353464],"type":"Point"}},{"type":"Feature","properties":{"name":"Gallery Mcube"},"geometry":{"coordinates":[85.32093855,27.6782463],"type":"Point"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patan house"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32296738792706,
+          27.674830010010226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namkha"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32534482243909,
+          27.676641650084704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chyasal"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32853912338919,
+          27.67471697255391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khapichhe"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32778680643992,
+          27.673554354806825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patan Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          85.3253354,
+          27.6734438
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahadur Shah Baithak"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32566477043815,
+          27.67371099353464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yalamaya Kendra"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32093855,
+          27.6782463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            85.32535949821533,
+            27.67337732890506
+          ],
+          [
+            85.32587994434607,
+            27.673297780603775
+          ],
+          [
+            85.32589051177979,
+            27.672780715233657
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
