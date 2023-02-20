@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Khapichhe"
+        "name": "Khapinchhe"
       },
       "geometry": {
         "coordinates": [
@@ -56,20 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Patan Museum"
-      },
-      "geometry": {
-        "coordinates": [
-          85.3253354,
-          27.6734438
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bahadur Shah Baithak"
+        "name": "Bahadur Shah Hall"
       },
       "geometry": {
         "coordinates": [
@@ -82,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yalamaya Kendra"
+        "name": "Gallery Mcube"
       },
       "geometry": {
         "coordinates": [
