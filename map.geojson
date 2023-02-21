@@ -4,7 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Patan house"
+        "name": "Patan house",
+        "programs": [
+          {
+            "name": "A Very Clear Picture",
+            "artist": "Alana Hunt"
+          },
+          {
+            "name": "Fleeting flowers",
+            "artist": "Abu Hang Samuel"
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
@@ -17,7 +27,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Namkha"
+        "name": "Namkha",
+         "programs": [
+          {
+            "name": "Searching for the European Roller",
+            "artist": "Hillside Projects"
+          }
+        ] 
       },
       "geometry": {
         "coordinates": [
@@ -30,7 +46,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chyasal"
+        "name": "Chyasal",
+        "programs": [
+          {
+            "name": "Minmini",
+            "artist": "Sriram Murali"
+          },
+          {
+            "name": "Feather Library",
+            "artist": "Feather Library / Esha Munshi"
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +69,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Khapinchhe"
+        "name": "Khapinchhe",
+        "programs": [
+          {
+            "name": "Indigenous Knowledge Portal",
+            "artist": "KTK-Belt"
+          },
+          {
+            "name": "What Plants Were Called Before They Had a Name (Guatemala), 2019-2021",
+            "artist": "Uriel Orlow"
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
@@ -56,7 +92,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bahadur Shah Hall"
+        "name": "Bahadur Shah Hall",
+        "programs": [
+          {
+            "name": "The Skin of Chitwan",
+            "artist": "Nepal Picture Library"
+          },
+          {
+            "name": "The World like a Jewel in the Hand",
+            "artist": "Ariella Aïsha Azoulay"
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +115,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gallery Mcube"
+        "name": "Gallery Mcube",
+        "programs": [
+          {
+            "name": "Seeds Shall Set Us Free",
+            "artist": "Munem Wasif"
+          },
+          {
+            "name": "Ikamo Tlalli - Earthless",
+            "artist": "Mónica Alcázar-Duarte"
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
