@@ -5,8 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Patan house",
-        "programs": "[{\"name\":\"A Very Clear Picture\",\"artist\":\"Alana Hunt\"},{\"name\":\"Fleeting flowers\",\"artist\":\"Abu Hang Samuel\"}]",
-        "id": 1
+        "programs": "A Very Clear Picture,Alana Hunt;Fleeting flowers,Abu Hang Samuel",
+        "id": 1,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
@@ -20,8 +21,9 @@
       "type": "Feature",
       "properties": {
         "name": "Namkha",
-        "programs": "[{\"name\":\"Searching for the European Roller\",\"artist\":\"Hillside Projects\"}]",
-        "id": 5
+        "programs": "Searching for the European Roller,Hillside Projects",
+        "id": 5,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
@@ -35,8 +37,9 @@
       "type": "Feature",
       "properties": {
         "name": "Khapinchhe",
-        "programs": "[{\"name\":\"Indigenous Knowledge Portal\",\"artist\":\"KTK-Belt\"},{\"name\":\"What Plants Were Called Before They Had a Name (Guatemala), 2019-2021\",\"artist\":\"Uriel Orlow\"}]",
-        "id": 3
+        "programs": "Indigenous Knowledge Portal,KTK-Belt;What Plants Were Called Before They Had a Name (Guatemala), 2019-2021,Uriel Orlow",
+        "id": 3,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
@@ -50,8 +53,9 @@
       "type": "Feature",
       "properties": {
         "name": "Bahadur Shah Hall",
-        "programs": "[{\"name\":\"The Skin of Chitwan\",\"artist\":\"Nepal Picture Library\"},{\"name\":\"The World like a Jewel in the Hand\",\"artist\":\"Ariella Aïsha Azoulay\"}]",
-        "id": 2
+        "programs": "The Skin of Chitwan,Nepal Picture Library;The World like a Jewel in the Hand,Ariella Aïsha Azoulay",
+        "id": 2,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
@@ -183,8 +187,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gallery Mcube",
-        "programs": "[{\"name\":\"Seeds Shall Set Us Free\",\"artist\":\"Munem Wasif\"},{\"name\":\"Ikamo Tlalli - Earthless\",\"artist\":\"Mónica Alcázar-Duarte\"}]",
-        "id": 6
+        "programs": "Seeds Shall Set Us Free,Munem Wasif;Ikamo Tlalli - Earthless,Mónica Alcázar-Duarte",
+        "id": 6,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
@@ -524,8 +529,9 @@
       "type": "Feature",
       "properties": {
         "name": "Chyasal Hiti",
-        "programs": "[{\"name\":\"Minmini\",\"artist\":\"Sriram Murali\"},{\"name\":\"Feather Library\",\"artist\":\"Feather Library / Esha Munshi\"}]",
-        "id": 4
+        "programs": "Minmini,Sriram Murali;Feather Library,Feather Library/Esha Munshi    ",
+        "id": 4,
+        "type": "venue"
       },
       "geometry": {
         "coordinates": [
