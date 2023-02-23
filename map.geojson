@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Patan house",
-        "programs": "A Very Clear Picture;Alana Hunt;Fleeting flowers;Abu Hang Samuel",
+        "programs": "A Very Clear Picture;Alana Hunt;Sungabha: Encounters in the Wild;Abu Hang Samuel;Drawing from Nature;Hemlata Pradhan & Himalayan Trust for Natural History Art (HTNHA)",
         "id": 1,
         "type": "venue"
       },
@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "name": "Namkha",
-        "programs": "Searching for the European Roller;Hillside Projects",
+        "programs": "Searching for the European Roller;Hillside Projects;Jatayu;Prasiit Sthapit & Shristi Shrestha;Residency Open House;Jonas Böttern, Nilanjana Nandy, Ajay Narsingh Rana",
         "id": 5,
         "type": "venue"
       },
@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "name": "Khapinchhe",
-        "programs": "Indigenous Knowledge Portal;KTK-Belt;What Plants Were Called Before They Had a Name (Guatemala), 2019-2021;Uriel Orlow",
+        "programs": "Indigenous Knowledge Portal;KTK-Belt Project;What Plants Were Called Before They Had a Name (Guatemala), 2019-2021;Uriel Orlow; As we know them: Bird names in Tharu;DB Chaudhary",
         "id": 3,
         "type": "venue"
       },
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bahadur Shah Hall",
+        "name": "Bahadur Shah Baithak",
         "programs": "The Skin of Chitwan;Nepal Picture Library;The World like a Jewel in the Hand;Ariella Aïsha Azoulay",
         "id": 2,
         "type": "venue"
@@ -529,7 +529,7 @@
       "type": "Feature",
       "properties": {
         "name": "Chyasal Hiti",
-        "programs": "Minmini;Sriram Murali;Feather Library;Feather Library/Esha Munshi",
+        "programs": "Minmini;Sriram Murali;Feather Library;Esha Munshi;Chimeki Chara;Abhishek Maharjan, Babin Tandukar, Kumod Parajuli, Kushal Raj Pandey, Nikita Shrestha Shakya, Om Prakash Yadav, Prasiit Sthapit, Rabindra Man Tamrakar, Roshan Manandhar, Sadip Dangol, Shatruhan Kumar Ray (Pandey), Sunil Manandhar, THC Photography Nepal",
         "id": 4,
         "type": "venue"
       },
